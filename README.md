@@ -1,4 +1,4 @@
-# I3 Typing Master v2026
+# I3 Typing Master v2026 (OK - by srengty)
 
 ## Project Description
 I3 Typing Master v2026 is a Java-based console application that allows users to test and improve their typing speed and accuracy.  
